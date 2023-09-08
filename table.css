@@ -1,0 +1,21 @@
+body{
+    min-width: 100%;
+    background-image: url(images/back.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+div{
+    font-size: 30px;
+    font-family: helvetica;
+    color: greenyellow;
+}
+
+p{
+    border-width: 5px;
+    border-radius: 10px;
+}
+span{
+    font-size: 30px;
+    font-family: helvetica;
+    color: greenyellow;
+}
